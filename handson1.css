@@ -1,0 +1,39 @@
+h1{
+    color: red;
+    align-self: center;
+}
+h2{
+    color: red;
+    font-style:italic;
+}
+.class1
+{text-decoration: line-through;
+    font-weight: 1000;
+
+}
+.class2{
+    background-color: yellow;
+}
+.orderlist{
+    color: brown;
+    line-height: 50px;
+}
+h{
+    font-style: italic;
+}
+.unorderlist{
+    color: brown;
+    text-transform: capitalize;
+    letter-spacing: 6px;
+    font-size: 20px;
+    
+
+}
+.paragraph{
+    color: brown;
+    font-weight: 500;
+}
+.link{
+    color: red;
+    background-color: yellow;
+}
